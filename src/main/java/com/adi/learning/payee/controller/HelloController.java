@@ -1,4 +1,4 @@
-package com.tenx.universalbanking.payee.controller;
+package com.adi.learning.payee.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.RequestMapping;

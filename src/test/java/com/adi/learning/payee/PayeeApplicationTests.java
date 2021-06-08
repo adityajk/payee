@@ -1,4 +1,4 @@
-package com.tenx.universalbanking.payee;
+package com.adi.learning.payee;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

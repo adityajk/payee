@@ -1,4 +1,4 @@
-package com.tenx.universalbanking.payee.config;
+package com.adi.learning.payee.config;
 
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

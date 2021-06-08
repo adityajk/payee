@@ -1,4 +1,4 @@
-package com.tenx.universalbanking.payee.config;
+package com.adi.learning.payee.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
